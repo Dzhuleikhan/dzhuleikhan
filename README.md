@@ -4,6 +4,7 @@
 Опыт в Web-разработке почти год. В данный момент осуществляю деятельность в данной профессии на фрилансе.
 Всегда люблю изучать что-то новое, чтобы восполнять свои знания и иметь возможность работать с новыми технологиями!
 
+
 ## Немного о моем образовании:
 
 * Выпускник факультета иностранных языков(английский) Брянского государственного универстита.
@@ -26,6 +27,8 @@
 * Bootstrap 
 * jQuery 
 * Wordpress
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzhuleikhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dzhuleikhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://juleykhan.ru)  
