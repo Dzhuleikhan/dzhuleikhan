@@ -8,8 +8,5 @@
 
 Skills:  HTML / CSS / JS / SCSS / Bootstrap / jQuery / Wordpress
 
-- 🔭 I’m currently working on freelance projects 
-- 🌱 I’m currently learning Strong JS and Vue.js 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dzhuleikhan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://juleykhan.ru)  
